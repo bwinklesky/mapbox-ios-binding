@@ -8,3 +8,4 @@ sharpie/build
 sharpie/Pods
 ._*
 *.nupkg
+.DS_Store
