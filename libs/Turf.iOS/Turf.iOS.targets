@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 
 <Project>
 	<PropertyGroup>
 		<_MapboxDownloadToken>$(MAPBOX_DOWNLOADS_TOKEN)</_MapboxDownloadToken>
-		<_MapboxVersion>11.8.0</_MapboxVersion>
+		<_MapboxVersion>11.18.1</_MapboxVersion>
 		<_MapboxNugetSuffix></_MapboxNugetSuffix>
 		<_MapboxMapsItemsFolder>MapboxMaps-$(_MapboxVersion)$(_MapboxNugetSuffix)</_MapboxMapsItemsFolder>
 		<_MapboxMapsSDKBaseFolder>$(XamarinBuildDownloadDir)$(_MapboxMapsItemsFolder)\</_MapboxMapsSDKBaseFolder>
