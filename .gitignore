@@ -9,3 +9,4 @@ sharpie/Pods
 ._*
 *.nupkg
 .DS_Store
+artifacts/.DS_Store
